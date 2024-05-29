@@ -1,6 +1,6 @@
 
 
-# Privacy Policy For Senbagam Mobile App
+# Privacy Policy
 ----------------
 
 ### Introduction  
