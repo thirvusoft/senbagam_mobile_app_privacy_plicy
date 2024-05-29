@@ -1,15 +1,15 @@
 Privacy Policy
 
-Introduction
+### Introduction
 Our privacy policy will help you understand what information we collect at the Mobile app, how we use it, and what choices you have. The Mobile app is provided as a free service by Thirvu Soft Pvt Ltd. This service is provided at no cost and is intended for use as is. By using our service, you agree to the collection and use of information in relation to this policy. We will not use or share your information with anyone except as described in this privacy policy. The terms used in this privacy policy have the same meanings as those in our Terms and Conditions, accessible on our website, unless otherwise defined in this privacy policy.
 
 Information Collection and Use
 We do not collect any personally identifiable information or sensitive user data through the use of our App. However, the app does use third-party services that may collect information used to identify you.
 
-Data Sharing
+### Data Sharing
 We do not share your personal information with any third-party service providers. Your information is kept strictly confidential and is used solely for providing and improving our services.
 
-User Data Collection
+### User Data Collection
 
 Non-Personal Data: Our application does not collect or access any personal or sensitive user data.
 Transparency and Trust: While we do not collect any user data, this privacy policy serves to inform users about our data practices.
