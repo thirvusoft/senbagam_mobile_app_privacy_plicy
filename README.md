@@ -1,0 +1,1 @@
+# senbagam_mobile_app_privacy_plicy
