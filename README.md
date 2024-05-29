@@ -1,6 +1,6 @@
-# senbagam_mobile_app_privacy_plicy
 
-# Privacy Policy For Mobile App
+
+# Privacy Policy For Senbagam Mobile App
 ----------------
 
 ### Introduction  
